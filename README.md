@@ -1,22 +1,28 @@
-Js-Basics
+# Js-Basics
 
-Lemuel D. Samudio
-Dave D. Querikiol
-Task Accomplished
-cloned the repository
+1. Lemuel D. Samudio
+2. Dave D. Querikiol
 
-Daniel Yecla
-Task Accomplished
-Just adding my name
+### Task Accomplished
+>cloned the repository
 
-Emilio Tubao
-Solve the merge conflict
-Solve the merge conflict
+2. Daniel Yecla
 
-Waren Gador
-Adding index.html , js folder and myscript.js file
-Add index.html , js folder and myscript.js file
+### Task Accomplished
+>Just adding my name
 
-Christian Benedict A. Ramirez
-Task Accomplished
-Add are you boy or a girl button
+3. Emilio Tubao
+
+### Solve the merge conflict
+>Solve the merge conflict
+
+4. Waren Gador
+
+### Adding index.html , js folder and myscript.js file 
+> Add index.html , js folder and myscript.js file
+
+5. Christian Benedict A. Ramirez
+
+### Task Accomplished
+
+> Add are you boy or a girl button
